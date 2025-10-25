@@ -62,3 +62,11 @@ The analysis provides valuable insights into employee attrition trends and influ
 By leveraging **Power BI dashboards** and **predictive metrics**, HR departments can take proactive measures to retain employees and improve job satisfaction.
 
 ---
+## 📂 Repository Structure
+
+- [WA_Fn-UseC_-HR-Employee-Attrition.csv](WA_Fn-UseC_-HR-Employee-Attrition.csv) → Raw dataset  
+- [Cleaned_HR_Attrition.xlsx](Cleaned_HR_Attrition.xlsx) → Cleaned dataset (generated from Jupyter Notebook)  
+- [Cleaning_Dataset.ipynb](Cleaning_Dataset.ipynb) → Python notebook for data cleaning and preprocessing  
+- [HR_Attrition_Data_Sheet.pbix](HR_Attrition_Data_Sheet.pbix) → Power BI dashboard file  
+- [HR_Attrition_Project_Report.pdf](HR_Attrition_Project_Report.pdf) → Final project report  
+- [README.md](README.md) → Project documentation  
