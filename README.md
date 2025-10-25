@@ -22,7 +22,8 @@ This project aims to analyze employee attrition using HR data to uncover pattern
 
 ## 🧮 Datasets
 - **Raw Dataset:** `WA_Fn-UseC_-HR-Employee-Attrition.csv`  
-- **Cleaned Dataset:** `Cleaned_HR_Attrition.xlsx` (Generated via Jupyter Notebook script `Untitled7.ipynb`)  
+- **Cleaned Dataset:** `Cleaned_HR_Attrition.xlsx`
+- **Jupyter Notebook script** `Cleaning_Dataset.ipynb`  
 - **Power BI File:** `HR_Attrition_Data_Sheet.pbix`  
 
 ---
