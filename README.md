@@ -64,9 +64,9 @@ By leveraging **Power BI dashboards** and **predictive metrics**, HR departments
 ---
 ## 📂 Repository Structure
 
-- [WA_Fn-UseC_-HR-Employee-Attrition.csv](WA_Fn-UseC_-HR-Employee-Attrition.csv) → Raw dataset  
-- [Cleaned_HR_Attrition.xlsx](Cleaned_HR_Attrition.xlsx) → Cleaned dataset (generated from Jupyter Notebook)  
-- [Cleaning_Dataset.ipynb](Cleaning_Dataset.ipynb) → Python notebook for data cleaning and preprocessing  
-- [HR_Attrition_Data_Sheet.pbix](HR_Attrition_Data_Sheet.pbix) → Power BI dashboard file  
-- [HR_Attrition_Project_Report.pdf](HR_Attrition_Project_Report.pdf) → Final project report  
-- [README.md](README.md) → Project documentation  
+- [**WA_Fn-UseC_-HR-Employee-Attrition.csv**](WA_Fn-UseC_-HR-Employee-Attrition.csv) | Raw dataset containing employee demographic, job, and satisfaction details. 
+- [**Cleaned_HR_Attrition.xlsx**](Cleaned_HR_Attrition.xlsx) | Cleaned and processed dataset generated using Python. 
+- [**Cleaning_Dataset.ipynb**](Cleaning_Dataset.ipynb) | Jupyter Notebook used for data cleaning and preprocessing. 
+- [**HR_Attrition_Data_Sheet.pbix**](HR_Attrition_Data_Sheet.pbix) | Power BI dashboard file for visual analytics. 
+- [**HR Attrition Data Analysis Project Report.pdf**](HR%20Attrition%20Data%20Analysis%20Project%20Report.pdf) | Final project report summarizing methodology and results. 
+- [**README.md**](README.md) | Project documentation and instructions. 
