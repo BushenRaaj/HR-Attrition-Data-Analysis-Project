@@ -1,4 +1,4 @@
-# 🧾 HR Employee Attrition Analysis Project
+# 🧾 HR Attrition Data Analysis Project
 
 ## 📘 Overview
 This project aims to analyze employee attrition using HR data to uncover patterns that influence employee turnover. The process involves cleaning, transforming, and visualizing the data to derive actionable insights that can help improve employee retention strategies.
