@@ -57,11 +57,6 @@ This project aims to analyze employee attrition using HR data to uncover pattern
 
 ---
 
-## 🧠 Conclusion
-The analysis provides valuable insights into employee attrition trends and influencing factors.  
-By leveraging **Power BI dashboards** and **predictive metrics**, HR departments can take proactive measures to retain employees and improve job satisfaction.
-
----
 ## 📂 Repository Structure
 
 - [**WA_Fn-UseC_-HR-Employee-Attrition.csv**](WA_Fn-UseC_-HR-Employee-Attrition.csv) | Raw dataset containing employee demographic, job, and satisfaction details. 
@@ -70,3 +65,31 @@ By leveraging **Power BI dashboards** and **predictive metrics**, HR departments
 - [**HR_Attrition_Data_Sheet.pbix**](HR_Attrition_Data_Sheet.pbix) | Power BI dashboard file for visual analytics. 
 - [**HR Attrition Data Analysis Project Report.pdf**](HR%20Attrition%20Data%20Analysis%20Project%20Report.pdf) | Final project report summarizing methodology and results. 
 - [**README.md**](README.md) | Project documentation and instructions. 
+
+
+---
+## 📊 Final Dashboard Preview
+
+<img width="1281" height="721" alt="Screenshot 2025-10-26 150017" src="https://github.com/user-attachments/assets/1cc7743a-9eaa-4ca2-8b28-52f639119ab5" />
+
+---
+
+<img width="1287" height="721" alt="Screenshot 2025-10-26 150030" src="https://github.com/user-attachments/assets/0307ed04-f76b-46b0-98ac-68a435620b86" />
+
+---
+
+<img width="1280" height="723" alt="Screenshot 2025-10-26 150044" src="https://github.com/user-attachments/assets/79aac68f-bae1-4eb6-a141-c1380dccb307" />
+
+---
+
+<img width="1285" height="717" alt="Screenshot 2025-10-26 150057" src="https://github.com/user-attachments/assets/76d6ff61-8ad7-4c71-8f9c-91481fbcffda" />
+
+---
+
+<img width="1285" height="722" alt="Screenshot 2025-10-26 150111" src="https://github.com/user-attachments/assets/b5dadfc1-4965-42f3-8258-d74517734f83" />
+
+---
+
+## 🧠 Conclusion
+The analysis provides valuable insights into employee attrition trends and influencing factors.  
+By leveraging **Power BI dashboards** and **predictive metrics**, HR departments can take proactive measures to retain employees and improve job satisfaction.
